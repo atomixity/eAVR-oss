@@ -1,3 +1,6 @@
 [submodule "xarch"]
 	path = xarch
 	url = https://github.com/lsahn-gh/xarch.git
+[submodule "auvia"]
+	path = auvia
+	url = https://github.com/atomixity/auvia.git
